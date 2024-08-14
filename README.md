@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ml projects**
 
-- 🌱 I’m currently **take a bootcamp at @Miuul**
+- 🌱 I’m currently **work at @IOTfyEdu**
 
 - 📝 I regularly write articles on [https://medium.com/@hakangns10](https://medium.com/@hakangns10)
 
